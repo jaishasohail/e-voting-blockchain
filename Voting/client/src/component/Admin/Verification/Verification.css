@@ -1,0 +1,15 @@
+.btn-verification {
+  padding: 11px;
+  width: 100%;
+  margin-top: 11px;
+  margin-bottom: 11px;
+  float: inline-end;
+}
+.container-main h3{
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
